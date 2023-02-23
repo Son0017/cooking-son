@@ -1,6 +1,4 @@
 import React, { useEffect, useRef, useState } from "react";
-// import useFetch from "../../hooks/useFetch";
-import "../../app.css";
 import { useNavigate } from "react-router-dom";
 
 import { postDoc } from "../../firebase/firebase";
